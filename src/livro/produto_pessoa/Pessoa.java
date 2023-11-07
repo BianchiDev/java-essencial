@@ -1,4 +1,4 @@
-package produto_pessoa;
+package livro.produto_pessoa;
 
 public class Pessoa {
 

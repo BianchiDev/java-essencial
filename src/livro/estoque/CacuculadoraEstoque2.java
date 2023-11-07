@@ -1,4 +1,4 @@
-package livro.livroOO.estoque;
+package livro.estoque;
 
 /*
  *  Utilizando while
@@ -12,7 +12,7 @@ public class CacuculadoraEstoque2 {
 
 		while (contador < 35) {
 			double valorDoLivro = 59.90;
-			//soma = soma + valorDoLivro;
+			// soma = soma + valorDoLivro;
 			soma += valorDoLivro; // Operador de atribuição
 			contador = contador++; // Operador unário
 		}

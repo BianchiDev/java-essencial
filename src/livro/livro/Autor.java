@@ -1,4 +1,4 @@
-package livro.livroOO.livro;
+package livro.livro;
 
 public class Autor {
 	String nome;
