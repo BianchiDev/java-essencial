@@ -1,4 +1,4 @@
-package produto_pessoa;
+package livro.produto_pessoa;
 
 /*
  * O construtor de uma classe SEMPRE tem o mesmo nome da classe;

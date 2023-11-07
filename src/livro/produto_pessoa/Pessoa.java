@@ -1,12 +1,13 @@
-package produto_pessoa;
+package livro.produto_pessoa;
 
 public class Pessoa {
 
-	String nome,email;
+	String nome, email;
 	int ano_nascimento;
-	
+
 	// Construtor vazio
-	public Pessoa(){};
+	public Pessoa() {
+	};
 
 	public Pessoa(String nome, String email, int ano_nascimento) {
 		super();
@@ -14,7 +15,7 @@ public class Pessoa {
 		this.email = email;
 		this.ano_nascimento = ano_nascimento;
 	};
-	
+
 	void imprime_informacoes() {
 		System.out.println("nome: " + this.nome);
 		System.out.println("E-mail: " + this.email);
