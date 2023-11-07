@@ -1,4 +1,4 @@
-package livro.livroOO.livro;
+package livro.livro;
 
 public class Livro {
 
@@ -19,10 +19,11 @@ public class Livro {
 	boolean temAutor() {
 		return this.autor != null;
 	}
-	
+
 	void getValor(double valor) {
 		this.valor = valor;
 	}
+
 	double setValor() {
 		return this.valor;
 	}
@@ -50,7 +51,5 @@ public class Livro {
 		this.valor -= this.valor * porcentagem;
 		return false;
 	}
-
-	
 
 }
