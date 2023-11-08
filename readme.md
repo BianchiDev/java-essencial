@@ -32,9 +32,9 @@ O curso de Java 2020 foi completamente refeito para se tornar o conteúdo de Jav
 
 - JPA (Hibernate)
 
-<a href= "https://www.udemy.com/course/java-curso-completo">Nelio Alves</a>
+<a href= "https://www.udemy.com/course/java-curso-completo"></a>
 
  <br>
 
- <p align ="center"><img src="./src/assets/Captura de tela de 2023-11-07 17-36-54.png" width="75%" height="75%"> </p>
+ <p align ="center"><img src="./src/assets/Captura de tela de 2023-11-08 14-19-02.png" width="75%" height="75%"> </p>
 <br><br><br>
