@@ -1,4 +1,4 @@
-package livro.livroOO.estoque;
+package livro.estoque;
 
 /*
  *  Utilizando for, mesma estrutura de while, mas utilizando for
@@ -16,9 +16,9 @@ public class CalculadoraEstoque3 {
 		 * valorDoLivro; soma += valorDoLivro; // Operador de atribuição contador =
 		 * contador++; // Operador unário }
 		 */
-		
-		for(double i = 0; i < 35; i++) {
-			 soma += 59.90;
+
+		for (double i = 0; i < 35; i++) {
+			soma += 59.90;
 		}
 		System.out.println("O total em estoque é: " + soma);
 
