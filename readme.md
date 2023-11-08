@@ -3,7 +3,7 @@
 ## O que eu estudei no curso
 
 ```
-O curso de Java 2020 foi completamente refeito para se tornar o conteúdo de Java mais atualizado e completo da língua portuguesa! Neste curso você aprenderá Java do absoluto zero até se tornar um programador profissional, dominando os recursos mais moderno da linguagem. Alguns dos assuntos abordados:
+O curso de Java 2020 foi completamente refeito para se tornar o <br>conteúdo de Java mais atualizado e completo da língua portuguesa! Neste curso você aprenderá Java do absoluto zero até<br> se tornar um programador profissional, dominando os <br> recursos mais moderno da linguagem. Alguns dos assuntos abordados:
 ```
 
 - Algoritmo e Estrutura de Dados
