@@ -3,6 +3,9 @@ package estruturaRepetitiva;
 import java.util.Scanner;
 
 public class EstruturaFor {
+	/**
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 
@@ -12,7 +15,7 @@ public class EstruturaFor {
 		int soma = 0;
 		for (int i = 0; i < N; i++) {
 			int x = sc.nextInt();
-			soma = soma = x;
+			soma += x;
 		}
 
 		System.out.println(soma);
