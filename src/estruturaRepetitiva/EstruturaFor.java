@@ -12,7 +12,7 @@ public class EstruturaFor {
 		int soma = 0;
 		for (int i = 0; i < N; i++) {
 			int x = sc.nextInt();
-			soma = soma = x;
+			soma  += x;
 		}
 
 		System.out.println(soma);
