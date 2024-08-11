@@ -1,4 +1,4 @@
-package livro.produto_pessoa;
+package produto_pessoa;
 public class Produto {
 	String nome;
 	float preco;

@@ -1,4 +1,4 @@
-package livro.estoque;
+package livro.livroOO.estoque;
 
 /*
  *  Utilizando while

@@ -4,7 +4,7 @@ public class ProgramaProduto {
 	public static void main(String[] args) {
 		
 		//Declaração de um objeto
-		Produto p0;
+		//Produto p0;
 		
 		// Declarando/ instanciação /Iniciação do objeto
 		Produto p1 = new Produto();
